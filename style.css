@@ -220,7 +220,7 @@ footer {
   }
 }
 
-/* Telas muito pequenas (celulares pequenos) */
+/* Telas muito pequenas */
 @media (max-width: 480px) {
   body {
     font-size: 14px;
